@@ -1,3 +1,7 @@
 Project 0x00 Shell, basics
 
-The script in "Task 0. Where am I?" prints the absolute pathname of the current working directory
+The script "0-current_working_directory" prints the absolute pathname of the current working directory.
+
+The script "1-listit" displays the contents of the current working directory.
+
+

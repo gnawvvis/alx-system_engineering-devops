@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 2-hellofile_comment /etc/passwd
+cat /etc/passwd

@@ -15,3 +15,5 @@ The script **5-listfilesdigitonly** displays the contents of the current working
 The script **6-firstdirectory** creates the directory *my_first_directory* in */tmp/*.
 
 The script **7-movethatfile** moves the file *betty* from the directory */tmp/* to the directory */tmp/my_first_directory*.
+
+The script **8-firstdelete** deletes the file *betty* from the directory */tmp/my_first_directory*.

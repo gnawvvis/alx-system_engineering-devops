@@ -17,3 +17,5 @@ The script **6-firstdirectory** creates the directory *my_first_directory* in */
 The script **7-movethatfile** moves the file *betty* from the directory */tmp/* to the directory */tmp/my_first_directory*.
 
 The script **8-firstdelete** deletes the file *betty* from the directory */tmp/my_first_directory*.
+
+The script **9-firstdirdeletion** deletes the directory *my_first_directory* in the directory */tmp*.

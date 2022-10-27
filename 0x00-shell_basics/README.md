@@ -9,3 +9,5 @@ The script "2-bring_me_home" changes the current working directory to the user's
 The script "3-listfiles" displays the contents of the current working directory in a long format.
 
 The script **4-listmorefiles** displays the contents of the current working directory, including hidden files, in the long format.
+
+The script **5-listfilesdigitonly** displays the contents of the current working directory, including hidden files and with user and group IDs displayed numerically, in the long format.

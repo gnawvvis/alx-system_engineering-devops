@@ -13,3 +13,5 @@ The script **4-listmorefiles** displays the contents of the current working dire
 The script **5-listfilesdigitonly** displays the contents of the current working directory, including hidden files and with user and group IDs displayed numerically, in the long format.
 
 The script **6-firstdirectory** creates the directory *my_first_directory* in */tmp/*.
+
+The script **7-movethatfile** moves the file *betty* from the directory */tmp/* to the directory */tmp/my_first_directory*.

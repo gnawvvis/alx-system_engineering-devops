@@ -25,3 +25,5 @@ The script **10-back** changes the current working directory to the previous wor
 The script **11-lists** lists all files in the current working directory, the parent of the current working directory and the */boot* directory in long format.
 
 The script **12-file_type** prints the type of the file *iamafile* that is in the directory */tmp*.
+
+The script **13-symbolic_link** creates a symbolic link to */bin/ls* named *__ls__*.

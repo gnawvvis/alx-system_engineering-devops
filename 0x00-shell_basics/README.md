@@ -32,3 +32,5 @@ The script **13-symbolic_link** creates a symbolic link to */bin/ls* named *__ls
 The script **14-copy_html** copies all the HTML files from the current working directory to the parent of the current working directory. This occurs only for files that do not exist in the parent directory or are newer than the versions in the parent directory.
 
 The script **100-lets_move** moves all files beginning with an uppercase letter in the current working directory to the directory */tmp/u*.
+
+The script **101-clean_emacs** deletes all files in the current working directory that end with the tilde character, *~*.

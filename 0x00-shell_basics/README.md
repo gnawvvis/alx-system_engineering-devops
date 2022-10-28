@@ -6,7 +6,7 @@ The script **1-listit** displays the contents of the current working directory.
 
 The script **2-bring_me_home** changes the current working directory to the user's home directory.
 
-The script **3-listfiles** displays the contents of the current working directory in a long format.
+c<F10>5r88<F8>r8<F8>rThe script **3-listfiles** displays the contents of the current working directory in a long format.
 
 The script **4-listmorefiles** displays the contents of the current working directory, including hidden files, in the long format.
 
@@ -38,3 +38,5 @@ The script **101-clean_emacs** deletes all files in the current working director
 The script **102-tree** creates the directories *welcome/*, *welcome/to/* and *welcome/to/school*.
 
 The script **103-commas** lists all the files and directories in the current working directory in a comma-separated list. The names of directories end with a slash (*/*).
+
+The magic file **school.mgc** is used to detect *School* data files. *School* data files contain the string *SCHOOL* at offset 0. 

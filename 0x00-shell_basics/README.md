@@ -36,3 +36,5 @@ The script **100-lets_move** moves all files beginning with an uppercase letter 
 The script **101-clean_emacs** deletes all files in the current working directory that end with the tilde character, *~*.
 
 The script **102-tree** creates the directories *welcome/*, *welcome/to/* and *welcome/to/school*.
+
+The script **103-commas** lists all the files and directories in the current working directory in a comma-separated list. The names of directories end with a slash (*/*).

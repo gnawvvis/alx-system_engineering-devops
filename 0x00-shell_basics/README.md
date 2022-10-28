@@ -6,7 +6,7 @@ The script **1-listit** displays the contents of the current working directory.
 
 The script **2-bring_me_home** changes the current working directory to the user's home directory.
 
-c<F10>5r88<F8>r8<F8>rThe script **3-listfiles** displays the contents of the current working directory in a long format.
+The script **3-listfiles** displays the contents of the current working directory in a long format.
 
 The script **4-listmorefiles** displays the contents of the current working directory, including hidden files, in the long format.
 
@@ -23,7 +23,6 @@ The script **9-firstdirdeletion** deletes the directory *my_first_directory* in 
 The script **10-back** changes the current working directory to the previous working directory.
 
 The script **11-lists** lists all files in the current working directory, the parent of the current working directory and the */boot* directory in long format.
-<<<<<<< HEAD
 
 The script **12-file_type** prints the type of the file *iamafile* that is in the directory */tmp*.
 

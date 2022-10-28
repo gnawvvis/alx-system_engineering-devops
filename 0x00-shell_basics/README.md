@@ -34,3 +34,5 @@ The script **14-copy_html** copies all the HTML files from the current working d
 The script **100-lets_move** moves all files beginning with an uppercase letter in the current working directory to the directory */tmp/u*.
 
 The script **101-clean_emacs** deletes all files in the current working directory that end with the tilde character, *~*.
+
+The script **102-tree** creates the directories *welcome/*, *welcome/to/* and *welcome/to/school*.

@@ -28,5 +28,3 @@ The script **11-lists** lists all files in the current working directory, the pa
 The script **12-file_type** prints the type of the file *iamafile* that is in the directory */tmp*.
 
 The script **13-symbolic_link** creates a symbolic link to */bin/ls* named *__ls__*.
-=======
->>>>>>> parent of 6d65e29... Add script: 12-file_type

@@ -21,5 +21,3 @@ The script **8-James_Bond** sets the owner no permissions, the group no permissi
 The script **9-John_Doe** sets the mode of the file *hello* to `-rwxr-x-wx`.
 
 The script **10-mirror_permissions** sets the mode of the file *hello* to be the same as the mode of the file *olleh*.
-
-The script **11-directories_permissions** adds execute permissions to all subdirectories of the current working directory for the owner, the group owner and all other users without changing regular files.

@@ -17,3 +17,5 @@ The script **6-multiple_permissions** adds execute permission to the owner and t
 The script **7-everybody** adds execution permission to the owner, the group owner and the other users of the file *hello*.
 
 The script **8-James_Bond** sets the owner no permissions, the group no permissions and other users all permissions to the file *hello*.
+
+The script **9-John_Doe** sets the mode of the file *hello* to `-rwxr-x-wx`.

@@ -9,3 +9,5 @@ The script **2-groups** prints all the groups the current user is part of.
 The script **3-new_owner** changes the owner of the file *hello* to the user *betty*.
 
 The script **4-empty** creates an empty file *hello*.
+
+The script **5-execute** adds execute permission to the owner of the file *hello*.

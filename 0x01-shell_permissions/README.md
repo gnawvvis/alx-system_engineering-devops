@@ -25,3 +25,5 @@ The script **10-mirror_permissions** sets the mode of the file *hello* to be the
 The script **11-directories_permissions** adds execute permission to all subdirectories of the current working directory for the owner, the group owner and all other uses without changing regular files.
 
 The script **12-directory_permissions** creates the directory *my_dir* with permissions `751` in the current working directory.
+
+The script **13-change_group** changes the group owner to *school* for the file *hello*.

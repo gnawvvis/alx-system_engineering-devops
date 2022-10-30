@@ -33,3 +33,5 @@ The script **100-change_owner_and_group** changes the owner to *vincent* and the
 The script **101-symbolic_link_permissions** changes the owner and the group owner of *_hello* to *vincent* and *staff* respectively. *_hello* is a symbolic link in the current working directory.
 
 The script **102-if_only** changes the owner of the file *hello* to *betty* only if it is owned by *guillaume*.
+
+The script **103-Star_Wars** plays the StarWars IV episode in the terminal.

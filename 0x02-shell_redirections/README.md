@@ -35,3 +35,5 @@ The script **15-countthatword** displays the number of lines that contain the pa
 The script **16-whatsnext** displays lines containing the pattern "root" and 3 lines that trail them in the file */etc/passwd*.
 
 The script **17-hidethisword** displays all the lines in the file */etc/passwd* that do not contain the pattern "bin".
+
+The script **18-letteronly** displays all lines of the file */etc/ssh/sshd_config* that start with a letter.

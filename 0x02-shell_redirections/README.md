@@ -25,3 +25,5 @@ The script **10-no_more_js** deletes all the regular files (not the directories)
 The script **11-directories** counts the number of directories and sub-directories in the current working directory. The current working directory and its parent directory are not taken into account.
 
 The script **12-newest_files** displays the 10 newest files in the current working directory.
+
+The script **13-unique** sorts a list of words and prints only words that appear exactly once.

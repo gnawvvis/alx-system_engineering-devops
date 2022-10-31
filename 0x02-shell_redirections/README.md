@@ -31,3 +31,5 @@ The script **13-unique** sorts a list of words and prints only words that appear
 The script **14-findthatword** displays lines containing the pattern "root" from the file */etc/passwd*.
 
 The script **15-countthatword** displays the number of lines that contain the pattern "bin" in the file */etc/passwd*.
+
+The script **16-whatsnext** displays lines containing the pattern "root" and 3 lines that trail them in the file */etc/passwd*.

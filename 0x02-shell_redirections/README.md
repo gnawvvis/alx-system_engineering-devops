@@ -41,3 +41,5 @@ The script **18-letteronly** displays all lines of the file */etc/ssh/sshd_confi
 The script **19-AZ** replaces all characters *A* and *c* from input to *Z* and *e* respectively.
 
 The script **20-hiago** removes all letters *c* and *C* from input.
+
+The script **21-reverse** reverses its input.

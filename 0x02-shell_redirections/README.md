@@ -39,3 +39,5 @@ The script **17-hidethisword** displays all the lines in the file */etc/passwd* 
 The script **18-letteronly** displays all lines of the file */etc/ssh/sshd_config* that start with a letter.
 
 The script **19-AZ** replaces all characters *A* and *c* from input to *Z* and *e* respectively.
+
+The script **20-hiago** removes all letters *c* and *C* from input.

@@ -27,3 +27,5 @@ The script **11-directories** counts the number of directories and sub-directori
 The script **12-newest_files** displays the 10 newest files in the current working directory.
 
 The script **13-unique** sorts a list of words and prints only words that appear exactly once.
+
+The script **14-findthatword** displays lines containing the pattern "root" from the file */etc/passwd*.

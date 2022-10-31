@@ -43,3 +43,5 @@ The script **19-AZ** replaces all characters *A* and *c* from input to *Z* and *
 The script **20-hiago** removes all letters *c* and *C* from input.
 
 The script **21-reverse** reverses its input.
+
+The script **22-users_and_homes** displays all users and their home directories, sorted by users.
